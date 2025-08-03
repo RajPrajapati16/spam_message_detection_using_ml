@@ -24,10 +24,10 @@ It contains labeled messages as `spam` or `ham`.
 
 ---
 
-### 🧪 How to Run
+# 🧪 How to Run
 
+## 1. Clone the repository
 ```bash
-# 1. Clone the repository
 git clone https://github.com/RajPrajapati16/spam_message_detection_using_ml.git
 cd spam_message_detection_using_ml
 ```
@@ -58,10 +58,10 @@ jupyter notebook
 
 ## 📌 Dependencies
 
-See `requirements.txt`
+See [`requirements.txt`](requirement.txt)
 
 ---
 
-## 📜 License`(MIT)`[LICENSE]
+## 📜 License [(MIT)](LICENSE)
 
 This project is licensed under the MIT License.
