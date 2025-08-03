@@ -6,7 +6,7 @@ This project is a machine learning-based system to detect spam messages using cl
 
 ---
 
-##🎯 Objective
+## 🎯 Objective
 
 The objective of this project is to develop a machine learning model that can automatically classify text messages as spam or ham (not spam) using Logistic Regression.
 
