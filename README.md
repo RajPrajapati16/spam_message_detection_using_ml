@@ -1,8 +1,8 @@
 # 📬 Spam Message Detection using Machine Learning
 
----
-
 This project is a machine learning-based system to detect spam messages using classification model.
+
+This project works good with respect to this database only.if you give data irrelevant to this dataset it may give error in prediction.
 
 ---
 
@@ -52,12 +52,11 @@ jupyter notebook
 ## 📊 Evaluation Metrics Example
 
 - Accuracy: 96%
-
-- Precision: 97%
-
-- Recall: 95%
-
+- Precision: 98%
+- Recall: 100%
 - F1 Score: 96%
+
+---
 
 ## 📌 Dependencies
 
