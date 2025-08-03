@@ -1,12 +1,14 @@
 # 📬 Spam Message Detection using Machine Learning
 
-This project is a machine learning-based system to detect spam messages using traditional NLP techniques and classification models.
+This project is a machine learning-based system to detect spam messages using classification model.
 
 ---
 
 ## 📁 Dataset
 
-The dataset used in this project is from [Kaggle SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset). It contains labeled messages as `spam` or `ham`.
+The dataset used in this project is from [Kaggle SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset). 
+
+It contains labeled messages as `spam` or `ham`.
 
 ---
 
@@ -22,7 +24,7 @@ The dataset used in this project is from [Kaggle SMS Spam Collection Dataset](ht
 
 ---
 
-## 🧪 How to Run
+### 🧪 How to Run
 
 ```bash
 # 1. Clone the repository
@@ -30,13 +32,13 @@ git clone https://github.com/RajPrajapati16/spam_message_detection_using_ml.git
 cd spam_message_detection_using_ml
 ```
 
-# 2. Install dependencies
+### 2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-# 3. Run the notebook
+### 3. Run the notebook
 
 ```bash
 jupyter notebook
@@ -44,7 +46,7 @@ jupyter notebook
 
 ---
 
-##📊 Evaluation Metrics Example
+## 📊 Evaluation Metrics Example
 
 - Accuracy: 96%
 
@@ -54,12 +56,12 @@ jupyter notebook
 
 - F1 Score: 96%
 
-##📌 Dependencies
+## 📌 Dependencies
 
 See `requirements.txt`
 
 ---
 
-##📜 License(MIT)[LICENSE]
+## 📜 License`(MIT)`[LICENSE]
 
 This project is licensed under the MIT License.
