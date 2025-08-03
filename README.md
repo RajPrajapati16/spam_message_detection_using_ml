@@ -6,6 +6,12 @@ This project is a machine learning-based system to detect spam messages using cl
 
 ---
 
+##🎯 Objective
+
+The objective of this project is to develop a machine learning model that can automatically classify text messages as spam or ham (not spam) using Logistic Regression.
+
+---
+
 ## 📁 Dataset
 
 The dataset used in this project is from [mail_data.csv](mail_data.csv). 
@@ -61,6 +67,12 @@ jupyter notebook
 ## 📌 Dependencies
 
 See [requirements.txt](requirements.txt)
+
+---
+
+## 🧑‍💻 Author
+
+Raj Prajapati
 
 ---
 
