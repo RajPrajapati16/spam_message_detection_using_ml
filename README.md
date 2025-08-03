@@ -1,5 +1,7 @@
 # 📬 Spam Message Detection using Machine Learning
 
+---
+
 This project is a machine learning-based system to detect spam messages using classification model.
 
 ---
@@ -26,7 +28,8 @@ It contains labeled messages as `spam` or `ham`.
 
 # 🧪 How to Run
 
-## 1. Clone the repository
+### 1. Clone the repository
+
 ```bash
 git clone https://github.com/RajPrajapati16/spam_message_detection_using_ml.git
 cd spam_message_detection_using_ml
@@ -58,7 +61,7 @@ jupyter notebook
 
 ## 📌 Dependencies
 
-See [`requirements.txt`](requirement.txt)
+See [requirements.txt](requirement.txt)
 
 ---
 
