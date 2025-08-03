@@ -2,7 +2,7 @@
 
 This project is a machine learning-based system to detect spam messages using classification model.
 
-This project works good with respect to this database only.if you give data irrelevant to this dataset it may give error in prediction.
+This project works well with this (`dataset`)[mail_data.csv]. Using unrelated data may cause prediction errors.
 
 ---
 
