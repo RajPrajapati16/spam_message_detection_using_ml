@@ -8,7 +8,7 @@ This project is a machine learning-based system to detect spam messages using cl
 
 ## 📁 Dataset
 
-The dataset used in this project is from [Kaggle SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset). 
+The dataset used in this project is from [mail_data.csv](mail_data.csv). 
 
 It contains labeled messages as `spam` or `ham`.
 
@@ -61,7 +61,7 @@ jupyter notebook
 
 ## 📌 Dependencies
 
-See [requirements.txt](requirement.txt)
+See [requirements.txt](requirements.txt)
 
 ---
 
